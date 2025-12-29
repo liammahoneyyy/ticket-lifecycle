@@ -42,7 +42,7 @@ This Screenshot shows a windows 10VM with 4VCPUs with Name OSticket-vm
 <p>
 <img <img width="1873" height="751" alt="image" src="https://github.com/user-attachments/assets/a5714454-ca6f-49cf-b743-1ae53cc55902" />
 
-</p>
+</p> This shot confirms the virtual machine PAssword and username are available for use and to proceed  
 <p>
 
 </p>
