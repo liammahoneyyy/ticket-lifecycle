@@ -49,9 +49,10 @@ This Screenshot shows a windows 10VM with 4VCPUs with Name OSticket-vm
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1676" height="931" alt="image" src="https://github.com/user-attachments/assets/8f7d2ff1-33f0-4d6e-9e97-3af7dc8d94b4" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+after completiting this lab I have demonstrated that I know how to create vitural machine within and outside of the same resource group as well as using different operating systems upon creating them 
 </p>
 <br /># ticket-lifecycle
